@@ -4,3 +4,5 @@ node_modules/      // 斜線 / 表示目錄
 npm-debug.log*     // 星號 * 匹配多個字母
 yarn-debug.log*
 yarn-error.log*
+style.css
+style.css.map
